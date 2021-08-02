@@ -16,15 +16,7 @@
 #""
 ## (Comments)
 #Sample Feature Definition Template
-@tag
-Feature: Application Login
 
- @tag1
-  Scenario: Home page default login
-    Given User is on NetBanking landing page
-    When User logins into application with "jin" and password "1234"
-    Then Home page is populate
-    And Cards displayed are "true"
 
     @tag2  
   Scenario: Home page default login
