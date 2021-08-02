@@ -15,4 +15,8 @@ public class TestRunner
  system 
  system 
  system
+ 
+ callout1
+ callout2
+ callout3
 }
